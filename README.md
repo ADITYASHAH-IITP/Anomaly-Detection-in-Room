@@ -4,8 +4,9 @@
    
 <br>
 <b>Circuit Diagram<br></b>
-![image](https://user-images.githubusercontent.com/37467941/140068790-7002ba89-07c3-45d7-8822-fe4f849d0b73.png)
-      <br><br>
+
+![image](https://user-images.githubusercontent.com/37467941/140069765-06339478-706e-43b4-babc-68a9ccc326cb.png)
+      <br>
 
 ---
 <br><br>
