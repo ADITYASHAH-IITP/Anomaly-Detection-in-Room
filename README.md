@@ -24,11 +24,9 @@
 <b>Steps<br></b>
 •  Make the same circuit connections as shown above<br>
 •  Log in to your cloud server and create a directory <br>
-• Create a configurations file with following code<br><br>
-![CODE](https://user-images.githubusercontent.com/37467941/140067302-5f506af3-1865-4d3a-88a9-eedbc5280c52.png)<br>
-<br>
-• Create another file named anomaly_detction.py with following code<br>
-![CODE](https://user-images.githubusercontent.com/37467941/140067880-0c481ab8-f9c7-400d-9f34-30819e00f34e.png)<br>
+• Create a configurations file with following code included in the below link<br>
+• Create another file named anomaly_detction.py included in the below link<br>
+
 <br>
 
 ---
