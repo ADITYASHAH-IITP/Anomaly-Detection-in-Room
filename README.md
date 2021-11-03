@@ -1,13 +1,12 @@
 ## Anomaly-Detection-in-Room
 # Using the z-score analysis to find out anomalous behaviour in room by analyzing the lights condition in your room.
 <br>
-
----     
+   
 <br>
 <b>Circuit Diagram<br></b>
 ![image](https://user-images.githubusercontent.com/37467941/140068790-7002ba89-07c3-45d7-8822-fe4f849d0b73.png)
       <br><br>
----
+
 ---
 <br><br>
 <b>Hardware required <br></b>
