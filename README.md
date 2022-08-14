@@ -1,5 +1,5 @@
 ## Anomaly-Detection-in-Room
-# Using the z-score analysis to find out anomalous behaviour in room by analyzing the lights condition in your room.
+# Using the z-score analysis to find out anomalous behaviour in room by analyzing the lights condition in the room.
 <br>
    
 <br>
